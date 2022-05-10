@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [HeadlessUI](https://headlessui.dev/)
-- [PhosphorReact](hhttps://phosphoricons.com/)
+- [PhosphorReact](https://phosphoricons.com/)
 - [NodeJS](https://nodejs.org/en/)
 - [Prisma](https://www.prisma.io/)
 - [Express](https://expressjs.com/)
