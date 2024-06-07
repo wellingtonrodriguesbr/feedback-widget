@@ -39,11 +39,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Feedget é uma aplicação para os usúarios deixarem seu feedback do que achou das aplicações web.
+FeedbackWidget é uma aplicação para empresas receberem feedbacks de seus usuários, podendo reportar bugs, sugestões ou elogios. Sendo possível tirar um print da tela para enviar junto com seu comentário.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/1ZYC8HjuXh4SQNXhRYoVLj/Feedback-Widget-(Community)?node-id=7%3A3>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
