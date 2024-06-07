@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-FeedbackWidget é uma aplicação para empresas receberem feedbacks de seus usuários, podendo reportar bugs, sugestões ou elogios. Sendo possível tirar um print da tela para enviar junto com seu comentário.
+FeedbackWidget é uma aplicação para empresas receberem feedbacks de seus usuários, podendo escolher a categoria do feedback: Problemas, Idéias ou Outros. Sendo possível tirar um print da tela para enviar junto com seu comentário.
 
 
 ## :memo: Licença
